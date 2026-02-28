@@ -294,5 +294,6 @@ export const ContractTitle = "Let us show you the full power of Adobe Commerce."
 export const adobeTitle = "Dive deeper into Adobe Commerce.";
 export const adverTitle = "Adobe drives global sales for top brands.";
 export const usecaseTitle = "Adobe Commerce use CaseTitle.";
+export const testData_3 = "test_3";
 export const testData_2 = "test_2";
 export const testData = "test";
